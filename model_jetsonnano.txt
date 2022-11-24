@@ -1,0 +1,10 @@
+OBJECT DETECTION:
+1. SSD-MobileNet v1 v2
+2. SSD-Inception
+3. Pednet 
+4. Multinet
+5. FaceNet
+6. DetectNet COCO Dog 
+7. DetectNet COCO Bottle  
+8. DetectNet COCO Chair 
+9. DetectNet COCO Airplane
